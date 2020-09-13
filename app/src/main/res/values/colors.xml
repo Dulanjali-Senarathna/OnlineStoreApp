@@ -3,4 +3,8 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+    <color name="bottombar">#FF7E0AAF</color>
+    <color name="allbottom">#FFC60957</color>
+    <color name="catone">#FFCE660C</color>
+    <color name="cattwo">#FFD0FF06</color>
 </resources>
